@@ -1,6 +1,6 @@
 body{
     
-        background-color: #c4cfda;
+        background-color: black;
     }
     
 }
@@ -10,7 +10,9 @@ body{
     top: 0;
     left: 0;
   }
-  
+  .filter{
+    opacity: 0.2;
+  }
   .image1 {
     position: absolute;
     top: 0;
@@ -48,7 +50,7 @@ body{
   .image6 {
     position: absolute;
     top: 1500px;
-    left: 650px;
+    left: 970px;
     opacity: 0.7;
   }
 
@@ -57,6 +59,7 @@ h1{
     position: absolute;
     top: 1250px;
     left: 900px;
+    color:gray;
   }
 
 p{
@@ -64,5 +67,6 @@ p{
     position: absolute;
     top: 1960px;
     left: 50px;
-    right:1160px;
+    right:40px;
+    color:white;
 }
