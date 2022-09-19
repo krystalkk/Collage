@@ -1,0 +1,68 @@
+body{
+    
+        background-color: #c4cfda;
+    }
+    
+}
+
+.AllImage {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  
+  .image1 {
+    position: absolute;
+    top: 0;
+    
+    opacity: 0.6;
+    
+  }
+  
+  .image2 {
+    position: absolute;
+    top: 540px;
+    opacity: 0.6;
+  }
+
+  .image3 {
+    position: absolute;
+    top: 20px;
+    left: 920px;
+    opacity: 0.7;
+  }
+
+  .image4 {
+    position: absolute;
+    top: 480px;
+    left: 600px;
+    opacity: 0.7;
+  }
+  .image5 {
+    position: absolute;
+    top: 1100px;
+    left: 50px;
+    opacity: 0.7;
+  }
+
+  .image6 {
+    position: absolute;
+    top: 1500px;
+    left: 650px;
+    opacity: 0.7;
+  }
+
+h1{
+    font-size: 120px;
+    position: absolute;
+    top: 1250px;
+    left: 900px;
+  }
+
+p{
+    font-family: monospace;
+    position: absolute;
+    top: 1960px;
+    left: 50px;
+    right:1160px;
+}
